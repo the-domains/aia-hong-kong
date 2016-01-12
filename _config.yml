@@ -1,29 +1,40 @@
-name: AIA Hong Kong
-favicon: null
-layout_spectrum: 0.24096
-typography_spectrum: 0.76471
 title: DRAFT Test Site for AIA Hong Kong
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.1321208442095667
+  brandStrength: 0.25
+  lightness: 0.4366095529403538
+  brandColors:
+    - '#15160D'
+    - '#D7D7E0'
+    - '#5C5B53'
+    - '#ACA288'
+  rhythmicContrast: 0.1786567447707057
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: AIA Hong Kong
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.25
-  lightness: 0.43660955294035375
-  saturation: 0.1321208442095667
-  rhythmicContrast: 0.1786567447707057
-purpose: []
+typography_spectrum: 0.76471
+layout_spectrum: 0.24096
