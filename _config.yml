@@ -1,7 +1,7 @@
 name: AIA Hong Kong
 favicon: null
-layout_spectrum: 0.7115485153626651
-typography_spectrum: 0.22675487748347223
+layout_spectrum: 0.24096
+typography_spectrum: 0.76471
 title: DRAFT Test Site for AIA Hong Kong
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5208475550170988
+  brandStrength: 0.25
   lightness: 0.43660955294035375
   saturation: 0.1321208442095667
   rhythmicContrast: 0.1786567447707057
