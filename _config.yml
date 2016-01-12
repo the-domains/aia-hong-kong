@@ -2,6 +2,7 @@ name: AIA Hong Kong
 favicon: null
 layout_spectrum: 0.7115485153626651
 typography_spectrum: 0.22675487748347223
+title: DRAFT Test Site for AIA Hong Kong
 cta:
   domain: null
   bucket: null
